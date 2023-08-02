@@ -14,4 +14,5 @@ See [example](src/example_adult.py).
 ## References
 
 [1] Shah, Vinit, et al. "The temple university hospital seizure detection corpus." Frontiers in neuroinformatics 12 (2018): 83.
+
 [2] Stevenson, Nathan J., et al. "A dataset of neonatal EEG recordings with seizure annotations." Scientific data 6.1 (2019): 1-8.
