@@ -1,7 +1,4 @@
 
-data/*
-data_preprocessed/*
-
 !data/adult/train/.gitkeep
 !data/adult/dev/.gitkeep
 !data/adult/eval/.gitkeep
@@ -18,6 +15,9 @@ data_preprocessed/*
 
 *.DS_Store
 *.pt
+*.csv
+*.csv_bi
+*.edf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
