@@ -85,7 +85,7 @@ def train(device, model, model_name, data, normalize = False, batch_size = 1024)
 
 	model.to(device)
 
-	loader_val =  DL.get_dataloader(data, balance = False, normalize = normalize, batch_size = batch_size, shuffle = True)
+	loader_val =  DL.get_dataloader(data, balance = False, normalize = normalize, batch_size = batch_size, shuffle = False)
 
 	model_temperature = ModelWithTemperature(model)
 	model_temperature.set_temperature(device, loader_val)
