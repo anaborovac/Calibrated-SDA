@@ -56,7 +56,7 @@ light_color = { color1: '#f0f0a8'
 	      , color2: '#e995d0'
 	      , color3: '#ffd6b3'
 	      , color4: '#a6a6a6'
-	      , color5: '#B2CFE2'#'#bdddf4'
+	      , color5: '#B2CFE2'
               , color6: '#eb9393' }
 
 fig_pad_percentage = 0.05
