@@ -1,8 +1,12 @@
 # Calibration of Seizure Detection Algorithms (SDAs)
 
 ## Requirements 
-- Python >= 3.8
-- PyTorch 
+The code was tested using:
+- Python 3.9.7
+- PyTorch 1.10.0
+- NumPy 1.20.3
+- MNE 0.24.1
+- SciPy 1.8.0
 
 ## Data 
 - Adult data can be downloaded [here](https://isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml#c_tusz) [1]. Load it into the `data/adult` folder.
