@@ -7,6 +7,7 @@ The code was tested using:
 - NumPy 1.20.3
 - MNE 0.24.1
 - SciPy 1.8.0
+- scikit-learn 1.2.2
 
 ## Data 
 - Adult data can be downloaded [here](https://isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml#c_tusz) [1]. Load it into the `data/adult` folder.
